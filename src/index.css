@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components{
+     .inline_container{
+        @apply w-full max-w-[1480px] mx-auto px-5 py-2.5
+     }
+}
